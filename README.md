@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/0545b8a8492b4fdbdea8c3aab0291a6ea70b1005b46998ce81fd20627ddc568c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32302f4d61747269785f4469676974616c5f7261696e5f62616e6e65722e676966"/>
-<h2 align="left">Hi 👋! My name is Amiyansu and I'm a developer from Odisha, India</h2>
+<h2 align="left">Hi 👋! I'm Amiyansu and I'm a developer from Odisha, India</h2>
 
 ###
 
@@ -26,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
@@ -67,10 +71,6 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Amiyansu Patra resident of Balasore<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
