@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/0545b8a8492b4fdbdea8c3aab0291a6ea70b1005b46998ce81fd20627ddc568c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32302f4d61747269785f4469676974616c5f7261696e5f62616e6e65722e676966"/>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Amiyansu and I'm a developer from Odisha, India</h2>
 
 ###
 
